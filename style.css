@@ -1,0 +1,170 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+ 
+}
+
+.main{
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.calc{
+  width: 25%;
+  height: 90%;
+  background-color: #564154;
+  border-radius: 20px;
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+}
+
+.input{
+   width: 100%;
+   height: 15%;
+   background-color: white;
+   border-radius: 20px;
+   text-align: end;
+   color: white;
+   font-size: 45px;
+   margin-bottom: 40px;
+
+}
+
+input{
+  width: 100%;
+  height: 130%;
+  background-color: #564154;
+  text-align: end;
+  color: white;
+  font-size: 45px;
+  outline: none;
+  border: none;
+  box-sizing: border-box;
+}
+
+.buttons{
+  background-color: #564154;
+  width: 100%;
+  height: 70%;
+}
+
+.first{
+  width: 100%;
+  background-color: #564154;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.first button{
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  margin-left: 18px;
+  font-size: 15px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  font-weight: bold;
+  box-shadow: 0 0 50px black;
+  background-color: gray;
+  color: white;
+}
+
+.second{
+  width: 100%;
+  background-color: #564154;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.second button{
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  margin-left: 18px;
+  font-size: 15px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  font-weight: bold;
+  box-shadow: 0 0 50px black;
+}
+
+.third{
+  width: 100%;
+  background-color: #564154;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.third button{
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  margin-left: 18px;
+  font-size: 15px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  font-weight: bold;
+  box-shadow: 0 0 50px black;
+}
+
+.forth{
+  width: 100%;
+  background-color: #564154;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.forth button{
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  margin-left: 18px;
+  font-size: 15px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  font-weight: bold;
+  box-shadow: 0 0 50px black;
+}
+
+.fifth{
+  width: 100%;
+  background-color: #564154;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.fifth button{
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  margin-left: 18px;
+  font-size: 15px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  font-weight: bold;
+  box-shadow: 0 0 50px black;
+  background-color: rgb(49, 6, 49);
+  color: white;
+}
+
+
+
+
+
+
+
+
+
